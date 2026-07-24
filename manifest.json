@@ -1,0 +1,9 @@
+{
+    "StructVersion": 1,
+    "BaseURL": "https://maciboone.github.io/Public_Mod_Repo/manifest.json",
+    "RepoName": "Public_Mod_Repo",
+    "RepoOwner": "Maci Boone",
+    "Mods": [
+        "49e5c7fa-4c78-48b1-98d7-582e592e4eb7"
+    ]
+}
